@@ -1,1 +1,3 @@
 # Text-Detector
+
+Not completed
